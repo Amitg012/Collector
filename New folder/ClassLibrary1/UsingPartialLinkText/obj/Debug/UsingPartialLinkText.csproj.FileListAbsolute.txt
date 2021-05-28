@@ -1,0 +1,11 @@
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingPartialLinkText\bin\Debug\UsingPartialLinkText.exe
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingPartialLinkText\bin\Debug\UsingPartialLinkText.pdb
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingPartialLinkText\bin\Debug\WebDriver.dll
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingPartialLinkText\bin\Debug\WebDriver.Support.dll
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingPartialLinkText\bin\Debug\WebDriver.xml
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingPartialLinkText\bin\Debug\WebDriver.Support.xml
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingPartialLinkText\obj\Debug\UsingPartialLinkText.csprojAssemblyReference.cache
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingPartialLinkText\obj\Debug\UsingPartialLinkText.csproj.CoreCompileInputs.cache
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingPartialLinkText\obj\Debug\UsingPartialLinkText.csproj.CopyComplete
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingPartialLinkText\obj\Debug\UsingPartialLinkText.exe
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingPartialLinkText\obj\Debug\UsingPartialLinkText.pdb

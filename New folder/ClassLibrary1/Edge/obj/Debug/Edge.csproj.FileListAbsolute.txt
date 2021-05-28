@@ -1,0 +1,13 @@
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\bin\Debug\Driver\msedgedriver.exe
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\bin\Debug\Edge.exe
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\bin\Debug\Edge.pdb
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\bin\Debug\Microsoft.Edge.SeleniumTools.dll
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\bin\Debug\WebDriver.dll
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\bin\Debug\WebDriver.Support.dll
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\bin\Debug\WebDriver.xml
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\bin\Debug\WebDriver.Support.xml
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\obj\Debug\Edge.csprojAssemblyReference.cache
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\obj\Debug\Edge.csproj.CoreCompileInputs.cache
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\obj\Debug\Edge.csproj.CopyComplete
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\obj\Debug\Edge.exe
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\obj\Debug\Edge.pdb
