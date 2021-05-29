@@ -6,8 +6,8 @@ C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\bi
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\bin\Debug\WebDriver.Support.dll
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\bin\Debug\WebDriver.xml
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\bin\Debug\WebDriver.Support.xml
-C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\obj\Debug\Edge.csprojAssemblyReference.cache
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\obj\Debug\Edge.csproj.CoreCompileInputs.cache
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\obj\Debug\Edge.csproj.CopyComplete
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\obj\Debug\Edge.exe
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\obj\Debug\Edge.pdb
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Edge\obj\Debug\Edge.csprojAssemblyReference.cache

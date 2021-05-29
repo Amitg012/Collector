@@ -1,5 +1,6 @@
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.exe
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\ClassLibrary1\bin\Debug\Microsoft.Edge.SeleniumTools.dll
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.dll
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.Support.dll
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.xml

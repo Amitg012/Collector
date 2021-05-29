@@ -1,0 +1,10 @@
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Clear text\bin\Debug\Clear text.exe
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Clear text\bin\Debug\Clear text.pdb
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Clear text\bin\Debug\WebDriver.dll
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Clear text\bin\Debug\WebDriver.Support.dll
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Clear text\bin\Debug\WebDriver.xml
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Clear text\bin\Debug\WebDriver.Support.xml
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Clear text\obj\Debug\Clear text.csproj.CoreCompileInputs.cache
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Clear text\obj\Debug\Clear text.csproj.CopyComplete
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Clear text\obj\Debug\Clear text.exe
+C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Clear text\obj\Debug\Clear text.pdb

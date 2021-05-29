@@ -4,7 +4,6 @@ C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingCs
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingCssSelecter\bin\Debug\WebDriver.Support.dll
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingCssSelecter\bin\Debug\WebDriver.xml
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingCssSelecter\bin\Debug\WebDriver.Support.xml
-C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingCssSelecter\obj\Debug\UsingCssSelecter.csprojAssemblyReference.cache
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingCssSelecter\obj\Debug\UsingCssSelecter.csproj.CoreCompileInputs.cache
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingCssSelecter\obj\Debug\UsingCssSelecter.csproj.CopyComplete
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingCssSelecter\obj\Debug\UsingCssSelecter.exe

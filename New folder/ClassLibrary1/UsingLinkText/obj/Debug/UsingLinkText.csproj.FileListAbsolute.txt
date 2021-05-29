@@ -4,7 +4,6 @@ C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingLi
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingLinkText\bin\Debug\WebDriver.Support.dll
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingLinkText\bin\Debug\WebDriver.xml
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingLinkText\bin\Debug\WebDriver.Support.xml
-C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingLinkText\obj\Debug\UsingLinkText.csprojAssemblyReference.cache
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingLinkText\obj\Debug\UsingLinkText.csproj.CoreCompileInputs.cache
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingLinkText\obj\Debug\UsingLinkText.csproj.CopyComplete
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\UsingLinkText\obj\Debug\UsingLinkText.exe

@@ -4,7 +4,6 @@ C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Locater
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Locater with Id\bin\Debug\WebDriver.Support.dll
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Locater with Id\bin\Debug\WebDriver.xml
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Locater with Id\bin\Debug\WebDriver.Support.xml
-C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Locater with Id\obj\Debug\Locater with Id.csprojAssemblyReference.cache
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Locater with Id\obj\Debug\Locater with Id.csproj.CoreCompileInputs.cache
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Locater with Id\obj\Debug\Locater with Id.csproj.CopyComplete
 C:\Users\ghodk\OneDrive\Desktop\Selenium Basics\New folder\ClassLibrary1\Locater with Id\obj\Debug\Locater with Id.exe
